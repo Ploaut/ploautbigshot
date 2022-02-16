@@ -18,3 +18,5 @@ int main()
 	printf("__________________________________\n\n");
 	printf("당신의 나이는 %d 살 몸무게는 %d kg 키는 %d cm 이군요!", age, weight, height);
 }
+
+//두번째 수정본
