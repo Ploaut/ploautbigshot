@@ -23,3 +23,5 @@ int main(void)
 
 	return 0;
 }
+
+//두번째 수정본
