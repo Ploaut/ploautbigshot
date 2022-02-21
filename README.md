@@ -1,5 +1,5 @@
-# vs code 깃 테스트
-
-비주얼 스튜디오 코드에서 깃 사용하기 테스트
-
-#두번째 수정본
+#Welcome to ploaut piece ladys and gentleman 
+I'm 19 southkorean highschool student
+I want a be awesome programmer
+I'm studying C language and Python
+If possible, I want to learn the java language and even C#
