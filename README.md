@@ -1,4 +1,4 @@
-#Welcome to ploaut piece ladys and gentleman 
+#Welcome to ploaut piece ladies and gentleman 
 
 I'm 19 southkorean highschool student
 
