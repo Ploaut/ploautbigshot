@@ -35,3 +35,5 @@ const multiresult = calculator.mulit(addresult,minusresult);
 // multiresult = -25
 //한번 return 하면 결과값을 return 해주고 그 function 은 끝난다.
 //function 은 실행되고 나면 사라지고,마지막엔 결과를 남긴다.
+
+
